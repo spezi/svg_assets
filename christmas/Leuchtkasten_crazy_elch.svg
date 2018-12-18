@@ -13,7 +13,7 @@
    viewBox="0 9580 990 420"
    version="1.1"
    id="svg1054"
-   sodipodi:docname="Leuchtkasten_crazy_elch.svg"
+   sodipodi:docname="[final] Leuchtkasten_crazy_elch.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata1058">
@@ -39,9 +39,9 @@
      inkscape:window-height="1152"
      id="namedview1056"
      showgrid="false"
-     inkscape:zoom="0.12245804"
-     inkscape:cx="1207.0258"
-     inkscape:cy="843.84295"
+     inkscape:zoom="0.48983216"
+     inkscape:cx="2100.4671"
+     inkscape:cy="385.69577"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -220,4 +220,20 @@
      cx="201.43272"
      cy="9908.1084"
      r="2.344949" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="73.333328"
+     y="9974.792"
+     id="text846"><tspan
+       sodipodi:role="line"
+       id="tspan844"
+       x="73.333328"
+       y="9974.792"
+       style="stroke-width:0.26458332px">Box Template by </tspan><tspan
+       sodipodi:role="line"
+       x="73.333328"
+       y="9987.4922"
+       style="stroke-width:0.26458332px"
+       id="tspan848">https://www.festi.info/boxes.py/RoundedBox?FingerJoint_angle=90.0&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=300&amp;y=300&amp;h=80&amp;outside=0&amp;radius=110&amp;wallpieces=1&amp;top=lid&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;reference=100&amp;burn=0.1&amp;render=1</tspan></text>
 </svg>
