@@ -66,7 +66,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="369.27916"
@@ -78,8 +78,8 @@
      inkscape:measure-end="2573.87,348.957"
      inkscape:window-width="1920"
      inkscape:window-height="1152"
-     inkscape:window-x="-3"
-     inkscape:window-y="337"
+     inkscape:window-x="305"
+     inkscape:window-y="146"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -91,7 +91,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>

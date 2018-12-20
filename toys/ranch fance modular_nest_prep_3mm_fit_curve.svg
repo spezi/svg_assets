@@ -66,10 +66,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66022474"
-     inkscape:cx="791.70444"
+     inkscape:cx="425.16259"
      inkscape:cy="822.55912"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -91,7 +91,9 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:pagecheckerboard="true"
+     units="mm" />
   <metadata
      id="metadata5">
     <rdf:RDF>
