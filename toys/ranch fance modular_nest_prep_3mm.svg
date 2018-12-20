@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="ranch fance modular_nest_prep_3mm.svg">
   <defs
      id="defs2">
@@ -68,18 +68,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1159.6263"
-     inkscape:cy="662.43779"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="1526.75"
+     inkscape:cy="284.29827"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:measure-start="2625.31,350.548"
      inkscape:measure-end="2573.87,348.957"
-     inkscape:window-width="1600"
-     inkscape:window-height="1176"
-     inkscape:window-x="1600"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,7 +116,7 @@
     <path
        id="rect1436-5-6-0-9-7-3"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.044;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m 328.35066,215.78174 -2.11468,2.11467 -2.82178,-2.82178 2.11468,-2.11467 z m -4.93645,-7.92705 2.11466,2.11466 2.82178,-2.82177 -2.11467,-2.11467 z m -5.10526,5.10528 -10e-6,-2.9906 h -3.9906 l 1e-5,2.9906 z m 16.09871,-1.4953 a 12.48875,12.48875 0 0 1 -12.48875,12.48875 12.48875,12.48875 0 0 1 -12.48875,-12.48875 12.48875,12.48875 0 0 1 12.48875,-12.48875 12.48875,12.48875 0 0 1 12.48875,12.48875 z"
+       d="m 299.45141,288.54216 -2.11468,2.11467 -2.82178,-2.82178 2.11468,-2.11467 z m -4.93645,-7.92705 2.11466,2.11466 2.82178,-2.82177 -2.11467,-2.11467 z m -5.10526,5.10528 -10e-6,-2.9906 h -3.9906 l 1e-5,2.9906 z m 16.09871,-1.4953 a 12.48875,12.48875 0 0 1 -12.48875,12.48875 12.48875,12.48875 0 0 1 -12.48875,-12.48875 12.48875,12.48875 0 0 1 12.48875,-12.48875 12.48875,12.48875 0 0 1 12.48875,12.48875 z"
        inkscape:connector-curvature="0" />
     <path
        id="rect1436-5-6-0-9-7-4"
