@@ -5,7 +5,7 @@
    width="1479.04mm"
    version="1.1"
    id="svg3836"
-   sodipodi:docname="eurorack_case.svg"
+   sodipodi:docname="eurorack_case_build.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -31,9 +31,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="3362.9998"
-     inkscape:cy="6578.9213"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="2954.2921"
+     inkscape:cy="5204.3058"
      inkscape:window-width="2044"
      inkscape:window-height="1410"
      inkscape:window-x="0"
@@ -2112,4 +2112,26 @@ SettingsUrl: http://www.festi.info/TwoPiece?FingerJoint_angle=90.0&amp;FingerJoi
        x="78.308319"
        y="1683.6793" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     x="622.91656"
+     y="993.37177"
+     id="text13721"><tspan
+       sodipodi:role="line"
+       id="tspan13719"
+       style="font-size:19.7556px;stroke-width:0.264583"
+       x="622.91656"
+       y="993.37177">5mm Plywood</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     x="668.31958"
+     y="1694.066"
+     id="text13721-0"><tspan
+       sodipodi:role="line"
+       id="tspan13719-3"
+       style="font-size:19.7556px;stroke-width:0.264583"
+       x="668.31958"
+       y="1694.066">5mm Plywood</tspan></text>
 </svg>
